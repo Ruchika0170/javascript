@@ -1,5 +1,5 @@
-Projects Made using HTML CSS and JavaScript
-Pomodoro Clock Project: Read Me
+POMODORO CLOCK PROJECT: 
+
 This project is a simple Pomodoro timer built using HTML, CSS, and JavaScript. It allows you to implement the Pomodoro Technique, a time management method that involves focused work intervals followed by short breaks.
 
 Features:
