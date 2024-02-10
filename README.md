@@ -3,6 +3,7 @@ POMODORO TIMER:
 This project is a simple Pomodoro timer built using HTML, CSS, and JavaScript. It allows you to implement the Pomodoro Technique, a time management method that involves focused work intervals followed by short breaks.
 
 Features:
+
 25-minute timer: 
 The default timer duration is 25 minutes, aligning with the Pomodoro Technique's recommended work interval.
 
